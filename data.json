@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "wiscky",
+        "precio": 900,
+        "img": "assets/Johnie Walker Blue Label.jpeg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "cerveza",
+        "precio": 100,
+        "img": "assets/Lugares con cerveza artesanal en la CDMX.jpeg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "vino",
+        "precio": 600,
+        "img": "assets/Luigi Bosca line_ New labels.jpeg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "espumante",
+        "precio": 700,
+        "img": "assets/Champagne label design_ Дизайн этикетки для шампанского.jpeg",
+        "cantidad": 1
+    }
+]
